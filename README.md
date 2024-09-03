@@ -1,5 +1,7 @@
 # Restaurant_Segmentation
 
+![](header.png)
+
 Developed by Pirate-Emperor, Restaurant_Segmentation is a machine learning project that focuses on segmenting restaurants based on their characteristics using a dataset from Zomato. The project is implemented in a Jupyter Notebook using Python.
 
 ## Features
